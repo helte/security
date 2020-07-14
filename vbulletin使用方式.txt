@@ -1,0 +1,4 @@
+cd C:/Users/ASUS/Desktop/Verification/vbulletin
+python CVE-2019-16759.py http://1.1.1.1/index?
+http://1.1.1.1/index 需替换为真实测试域名
+快速参考链接：https://blog.csdn.net/weixin_43886632/article/details/101673762
